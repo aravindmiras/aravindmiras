@@ -2,10 +2,6 @@
 
 🎯 Embedded Systems | 🔌 Electric Vehicles | 🤖 AI-Driven Automation
 
-
-- 💬 Ask me about: C, Python, STM32, CAN, YOLO
-- 📫 Reach me at: [aravindmiras@gmail.com]
-
 <!-- GitHub Stats (optional, can remove if you want super minimal) -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aravindmiras&show_icons=true&theme=dark)
 
@@ -14,4 +10,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=aravindmiras&theme=dark)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aravindmiras&theme=github-dark)
+
+[![Gmail](https://img.shields.io/badge/email-aravindmiras%40gmail.com-red?style=flat&logo=gmail)](mailto:aravindmiras@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/aravind-miras-2789b8156/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox-browser&logoColor=white)](https://aravindmiras.github.io/MyPortfolio/)
 
