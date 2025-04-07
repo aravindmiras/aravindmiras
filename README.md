@@ -56,6 +56,7 @@ A drone-based farm monitoring system with disease detection (YOLOv8, ResNet), ND
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindmiras&layout=compact&theme=dark)
 </div>
+
 ---
 
 ## Contact
